@@ -1,0 +1,1 @@
+Archivo para comprobar si tras crear una nueva rama de main llamada feature1, hago git add remote, git fetch, y git checkout -b feature1 origin/feature1, funciona
